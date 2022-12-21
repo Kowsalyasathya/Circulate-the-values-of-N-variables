@@ -26,6 +26,6 @@ n = int(input())
 ```
 
 ## Output:
-![OUTPUT](./images/viva cir.png)
+![OUTPUT](./images/circulate.png)
 
 ## Result:
