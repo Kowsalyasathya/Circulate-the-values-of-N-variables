@@ -18,6 +18,8 @@ Using the slicing concept rotate the list
 End the program 
 ## Program:
 ```
+#Developed by: kowsalya
+#RegisterNumber:22006013
 def circulate():
     circul = l[n:]+l[:n]
     print("After circulating the values are:",circul)
